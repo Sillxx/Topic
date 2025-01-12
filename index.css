@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(108, 65, 148);
+}
+.j{
+    display: inline-block;
+    color: blue;
+}
+.jg {
+    display: inline-block;
+color: turquoise;
+}
+p{
+    font-size: 20px;
+}
+img {
+    vertical-align: middle;
+    width: 250px;
+    border-radius: 250px;
+}
